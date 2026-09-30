@@ -1,0 +1,18 @@
+DEMO SCRIPT
+
+1. Run: python main.py
+2. Choose 1 and add:
+   Title: College Canteen
+   Amount: 120
+   Category: Food
+   Date: 2026-09-30
+   Notes: Lunch
+3. Add another:
+   Title: Bus Pass
+   Amount: 500
+   Category: Travel
+   Date: 2026-09-29
+4. Choose 2 to show stored records.
+5. Choose 5 to show analytics.
+6. Choose 6 to show the generated report.
+7. Explain that SQLite provides persistent storage and validation prevents invalid entries.

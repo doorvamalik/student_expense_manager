@@ -1,0 +1,8 @@
+test_category_summary (test_app.TestExpenseManager.test_category_summary) ... ok
+test_total (test_app.TestExpenseManager.test_total) ... ok
+test_validation (test_app.TestExpenseManager.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
